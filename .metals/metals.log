@@ -1,0 +1,422 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@46831df1]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7d70e86d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@46831df1]
+2024.09.25 12:25:19 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.25 12:25:20 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.25 12:25:20 INFO  no build target found for C:\Users\shubh\Downloads\fp1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 12:25:22 INFO  no build target found for C:\Users\shubh\Downloads\fp1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 12:25:22 WARN  no build tool detected in workspace 'C:\Users\shubh\OneDrive\Documents\DSA'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2024.09.25 12:25:22 INFO  Running List(C:\Users\shubh\AppData\Local\Coursier\data\bin\scala-cli.BAT, bsp, --workspace, C:\Users\shubh\AppData\Local\Temp\metals-scala-cli2407453913839318744, --semantic-db-source-root, C:\Users\shubh\Downloads, C:\Users\shubh\Downloads\fp1.scala)
+2024.09.25 12:25:22 WARN  Build server is not auto-connectable.
+2024.09.25 12:25:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\shubh\Downloads\.metals\bsp.trace.json or C:\Users\shubh\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.09.25 12:25:23 INFO  Scala CLI: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.09.25 12:25:23 INFO  Scala CLI: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.09.25 12:25:23 INFO  Scala CLI: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.09.25 12:25:23 INFO  Scala CLI: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.09.25 12:25:26 INFO  Connected to Scala CLI server v1.5.0
+2024.09.25 12:25:26 INFO  compiling metals-scala-cli2407453913839318744_2c42b9287f-1a02814a04 (1 scala source)
+2024.09.25 12:25:27 INFO  no build target found for C:\Users\shubh\Downloads\fp1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 12:25:27 INFO  Shut down connection with build server.
+2024.09.25 12:25:27 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 12:25:28 INFO  time: code lens generation in 6.83s
+Sep 25, 2024 12:25:29 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_12-25-29-747.md
+2024.09.25 12:25:33 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.09.25 12:25:33 INFO  time: indexed workspace in 7.26s
+2024.09.25 12:25:33 INFO  Scala CLI started for C:\Users\shubh\Downloads\fp1.scala
+2024.09.25 12:25:33 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 12:25:34 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_12-25-34-052.md
+2024.09.25 18:17:54 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:17:55 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:17:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-17-55-416.md
+2024.09.25 18:17:59 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:17:59 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:17:59 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:17:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-17-59-990.md
+2024.09.25 18:17:59 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:00 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-00-267.md
+2024.09.25 18:17:59 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:17:59 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:00 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-00-674.md
+Sep 25, 2024 6:18:00 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-00-822.md
+2024.09.25 18:18:01 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:01 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:01 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-01-359.md
+2024.09.25 18:18:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-05-039.md
+2024.09.25 18:18:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-05-466.md
+2024.09.25 18:18:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-05-688.md
+2024.09.25 18:18:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-06-204.md
+2024.09.25 18:18:09 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:09 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:09 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-09-380.md
+2024.09.25 18:18:09 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-11-078.md
+2024.09.25 18:18:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-12-682.md
+2024.09.25 18:18:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-13-982.md
+2024.09.25 18:18:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:14 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-14-379.md
+2024.09.25 18:18:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:14 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-14-858.md
+Sep 25, 2024 6:18:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-14-928.md
+2024.09.25 18:18:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-15-177.md
+2024.09.25 18:18:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-15-597.md
+2024.09.25 18:18:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-16-257.md
+2024.09.25 18:18:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-16-427.md
+2024.09.25 18:18:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:17 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-17-032.md
+2024.09.25 18:18:18 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:18:18 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:18:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-18-19-030.md
+2024.09.25 18:24:47 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:48 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-48-252.md
+2024.09.25 18:24:47 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:47 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-48-472.md
+2024.09.25 18:24:47 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:48 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:48 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-48-925.md
+2024.09.25 18:24:49 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:49 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:48 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-49-350.md
+2024.09.25 18:24:49 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:49 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:49 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-49-839.md
+2024.09.25 18:24:49 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:50 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-50-123.md
+2024.09.25 18:24:50 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:50 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-50-518.md
+2024.09.25 18:24:50 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:50 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:50 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-50-984.md
+2024.09.25 18:24:50 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:50 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-51-172.md
+2024.09.25 18:24:51 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:51 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-51-553.md
+2024.09.25 18:24:51 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:52 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-52-151.md
+2024.09.25 18:24:53 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:24:53 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:24:53 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-24-53-130.md
+2024.09.25 18:25:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:25:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:25:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-25-05-076.md
+2024.09.25 18:26:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-03-863.md
+2024.09.25 18:26:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-04-083.md
+2024.09.25 18:26:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-04-773.md
+2024.09.25 18:26:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-05-408.md
+2024.09.25 18:26:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-05-574.md
+2024.09.25 18:26:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-06-164.md
+2024.09.25 18:26:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-06-647.md
+2024.09.25 18:26:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:07 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-07-129.md
+2024.09.25 18:26:08 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:08 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:08 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-08-507.md
+2024.09.25 18:26:08 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 18:26:09 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-09-232.md
+2024.09.25 18:26:09 WARN  no build target for: C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java
+2024.09.25 18:26:09 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-09-797.md
+2024.09.25 18:26:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-12-184.md
+2024.09.25 18:26:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 6:26:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_18-26-16-398.md
+2024.09.25 22:43:57 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:43:57 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:43:58 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-43-58-049.md
+2024.09.25 22:44:02 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:02 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:02 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-02-478.md
+2024.09.25 22:44:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:03 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-03-804.md
+2024.09.25 22:44:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:03 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-04-422.md
+2024.09.25 22:44:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:04 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-04-843.md
+2024.09.25 22:44:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-05-235.md
+2024.09.25 22:44:04 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:05 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-05-692.md
+2024.09.25 22:44:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-06-314.md
+Sep 25, 2024 10:44:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 248
+2024.09.25 22:44:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:06 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-07-068.md
+2024.09.25 22:44:07 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:07 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:07 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-07-316.md
+2024.09.25 22:44:08 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:08 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:08 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-08-464.md
+2024.09.25 22:44:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-10-094.md
+2024.09.25 22:44:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-10-551.md
+2024.09.25 22:44:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:10 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:10 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-10-735.md
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-11-171.md
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-11-394.md
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-11-538.md
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-11-640.md
+Sep 25, 2024 10:44:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-11-718.md
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:11 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-11-848.md
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:11 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-12-068.md
+Sep 25, 2024 10:44:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-12-157.md
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:12 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-12-580.md
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-13-009.md
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-13-117.md
+Sep 25, 2024 10:44:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-13-222.md
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:12 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-13-440.md
+2024.09.25 22:44:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-13-628.md
+2024.09.25 22:44:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-14-029.md
+2024.09.25 22:44:14 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-14-493.md
+2024.09.25 22:44:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-16-055.md
+2024.09.25 22:44:16 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:16 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-16-486.md
+2024.09.25 22:44:20 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:20 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-20-668.md
+2024.09.25 22:44:20 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:20 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-21-305.md
+2024.09.25 22:44:20 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:20 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-21-570.md
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-21-797.md
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:21 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-21-995.md
+Sep 25, 2024 10:44:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-22-062.md
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-22-291.md
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:21 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-22-377.md
+2024.09.25 22:44:22 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:22 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-22-439.md
+2024.09.25 22:44:23 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:23 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-23-431.md
+2024.09.25 22:44:23 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:23 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-23-737.md
+2024.09.25 22:44:35 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:35 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 22:44:35 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 10:44:36 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_22-44-36-062.md
+2024.09.25 23:51:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 23:51:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 11:51:13 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_23-51-13-947.md
+2024.09.25 23:51:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 23:51:14 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 11:51:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_23-51-14-378.md
+2024.09.25 23:51:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 23:51:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 11:51:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_23-51-14-697.md
+2024.09.25 23:51:13 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 23:51:14 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 11:51:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_23-51-14-783.md
+2024.09.25 23:51:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+2024.09.25 23:51:15 INFO  no build target found for C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java. Using presentation compiler with project's scala-library version: 3.3.3
+Sep 25, 2024 11:51:15 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\shubh\OneDrive\Documents\DSA\.metals\.reports\metals-full\2024-09-25\r_compiler-error_23-51-15-465.md
+2024.10.02 20:37:35 WARN  no build target for: C:\Users\shubh\OneDrive\Documents\DSA\LinkedList\LL.java
+2024.10.02 20:37:36 INFO  Shutting down server
+2024.10.02 20:37:36 INFO  shutting down Metals
+2024.10.02 20:37:36 INFO  Exiting server
